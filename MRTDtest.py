@@ -1,8 +1,3 @@
-"""
-Simplified unit tests for Group E MRTD software.
-Each function is tested twice: one expected pass, one expected fail.
-"""
-
 import unittest
 from unittest.mock import patch
 import MRTD
